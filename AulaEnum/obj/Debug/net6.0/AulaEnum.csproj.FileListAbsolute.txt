@@ -1,0 +1,5 @@
+C:\Temp\ws-vs2021\AulaEnum\AulaEnum\obj\Debug\net6.0\AulaEnum.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2021\AulaEnum\AulaEnum\obj\Debug\net6.0\AulaEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2021\AulaEnum\AulaEnum\obj\Debug\net6.0\AulaEnum.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2021\AulaEnum\AulaEnum\obj\Debug\net6.0\AulaEnum.AssemblyInfo.cs
+C:\Temp\ws-vs2021\AulaEnum\AulaEnum\obj\Debug\net6.0\AulaEnum.csproj.CoreCompileInputs.cache
