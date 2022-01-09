@@ -1,12 +1,14 @@
 ﻿using System;
-
+using AulaEnum.Entities;
 namespace AulaEnum
 {
     class Program
     {
-        public void Main(String[] args)
+        public static void Main(String[] args)
         {
-            Console.WriteLine("Bom dia!");
+            Order order = new Order();
+
+            Console.WriteLine(order);
         }
     }
 }

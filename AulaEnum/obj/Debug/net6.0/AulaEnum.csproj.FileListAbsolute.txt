@@ -3,3 +3,13 @@ C:\Temp\ws-vs2021\AulaEnum\AulaEnum\obj\Debug\net6.0\AulaEnum.GeneratedMSBuildEd
 C:\Temp\ws-vs2021\AulaEnum\AulaEnum\obj\Debug\net6.0\AulaEnum.AssemblyInfoInputs.cache
 C:\Temp\ws-vs2021\AulaEnum\AulaEnum\obj\Debug\net6.0\AulaEnum.AssemblyInfo.cs
 C:\Temp\ws-vs2021\AulaEnum\AulaEnum\obj\Debug\net6.0\AulaEnum.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2021\AulaEnum\AulaEnum\bin\Debug\net6.0\AulaEnum.exe
+C:\Temp\ws-vs2021\AulaEnum\AulaEnum\bin\Debug\net6.0\AulaEnum.deps.json
+C:\Temp\ws-vs2021\AulaEnum\AulaEnum\bin\Debug\net6.0\AulaEnum.runtimeconfig.json
+C:\Temp\ws-vs2021\AulaEnum\AulaEnum\bin\Debug\net6.0\AulaEnum.dll
+C:\Temp\ws-vs2021\AulaEnum\AulaEnum\bin\Debug\net6.0\ref\AulaEnum.dll
+C:\Temp\ws-vs2021\AulaEnum\AulaEnum\bin\Debug\net6.0\AulaEnum.pdb
+C:\Temp\ws-vs2021\AulaEnum\AulaEnum\obj\Debug\net6.0\AulaEnum.dll
+C:\Temp\ws-vs2021\AulaEnum\AulaEnum\obj\Debug\net6.0\ref\AulaEnum.dll
+C:\Temp\ws-vs2021\AulaEnum\AulaEnum\obj\Debug\net6.0\AulaEnum.pdb
+C:\Temp\ws-vs2021\AulaEnum\AulaEnum\obj\Debug\net6.0\AulaEnum.genruntimeconfig.cache
